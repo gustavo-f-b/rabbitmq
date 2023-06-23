@@ -1,1 +1,1 @@
-## Some gifs for use as an example
+## Some gifs for use as an examples
