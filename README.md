@@ -39,4 +39,4 @@ You can simulate the types of exchanges on the 🔗[Try RabbitMQ](https://tryrab
 ![Fanout](https://raw.githubusercontent.com/jellyBott/RabbitMQ/master/gifs/rabbitmq_fanout.gif)
 
 **Topic**
-![Topic]()
+![Topic](https://raw.githubusercontent.com/jellyBott/RabbitMQ/master/gifs/rabbitmq_topic.gif)
