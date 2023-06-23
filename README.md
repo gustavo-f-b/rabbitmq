@@ -10,7 +10,7 @@ In RabbitMQ, a publisher is responsible for sending messages to the message brok
 
 ## Exchange ⚙️
 
-In RabbitMQ, an exchange is a message routing agent that receives messages from publishers and routes them to the appropriate message queues based on certain rules. It acts as a mediator between publishers and consumers within the messaging system.
+An exchange is a message routing agent that receives messages from publishers and routes them to the appropriate message queues based on certain rules. It acts as a mediator between publishers and consumers within the messaging system.
 
 **Types of exchanges:**
 
