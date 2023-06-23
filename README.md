@@ -31,3 +31,12 @@ In RabbitMQ, a consumer is an application or component that receives and process
 ## Try RabbitMQ
 
 You can simulate the types of exchanges on the 🔗[Try RabbitMQ](https://tryrabbitmq.com). Examples bellow:
+
+**Direct**
+![Direct](https://raw.githubusercontent.com/jellyBott/RabbitMQ/master/gifs/rabbitmq_direct.gif)
+
+**Fanout**
+![Fanout](https://raw.githubusercontent.com/jellyBott/RabbitMQ/master/gifs/rabbitmq_fanout.gif)
+
+**Topic**
+![Topic]()
