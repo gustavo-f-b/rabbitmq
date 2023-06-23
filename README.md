@@ -6,11 +6,11 @@
 
 ## Publisher 📨
 
-In RabbitMQ, a publisher is responsible for sending messages to the message broker. The publisher creates messages and publishes them to specific message queues or exchanges within RabbitMQ, allowing other components, known as consumers, to receive and process those messages.
+The publisher is responsible for sending messages to the message broker. The publisher creates messages and publishes them to specific message queues or exchanges within RabbitMQ, allowing other components, known as consumers, to receive and process those messages.
 
 ## Exchange ⚙️
 
-An exchange is a message routing agent that receives messages from publishers and routes them to the appropriate message queues based on certain rules. It acts as a mediator between publishers and consumers within the messaging system.
+Exchange is a message routing agent that receives messages from publishers and routes them to the appropriate message queues based on certain rules. It acts as a mediator between publishers and consumers within the messaging system.
 
 **Types of exchanges:**
 
@@ -23,10 +23,10 @@ An exchange is a message routing agent that receives messages from publishers an
 
 ## Queue 🟥 🟧 🟨 🟩 🟦
 
-In RabbitMQ, a queue is a buffer that holds messages until they are consumed by a consumer application. It acts as a temporary storage location for messages within the messaging system. The messages in a queue can be consumed in a [first-in, first-out (FIFO)](https://en.wikipedia.org/wiki/FIFO_%28computing_and_electronics%29) order.
+The queue is a buffer that holds messages until they are consumed by a consumer application. It acts as a temporary storage location for messages within the messaging system. The messages in a queue can be consumed in a [first-in, first-out (FIFO)](https://en.wikipedia.org/wiki/FIFO_%28computing_and_electronics%29) order.
 
 ## Consumer 📮
-In RabbitMQ, a consumer is an application or component that receives and processes messages from a message queue. It plays a crucial role in the messaging system by subscribing to specific queues and consuming messages that are published by producers.
+The consumer is an application or component that receives and processes messages from a message queue. It plays a crucial role in the messaging system by subscribing to specific queues and consuming messages that are published by producers.
 
 ## Try RabbitMQ
 
